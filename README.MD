@@ -43,7 +43,7 @@ This project presents a comprehensive sales analysis dashboard for Blinkit, crea
 - **Outlet Performance**: Analyze the performance of different outlets based on their establishment year and location.
 
 ## Screenshot
-
+!(https://github.com/vikashdwivedi21/Blinkit-Sales-Analysis/blob/master/images/Screenshot%202024-08-18%20153246.png)
 
 ## Conclusion
 This dashboard is designed to provide a clear and concise view of Blinkit's sales performance, enabling better decision-making and strategic planning.
